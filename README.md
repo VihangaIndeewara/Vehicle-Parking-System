@@ -20,7 +20,7 @@ This Application is Stand Alone Application and this application developed for m
 <br>
 <h2>Basic Application interfaces</h2>
 <br>
-<ul>
-   <li><b>Home Interface</b></li>
-  
-</ul>
+<h3>Home Interface</h3>
+
+![Movies   TV 06_22_2023 10_45_56 AM (2)](https://github.com/VihangaIndeewara/Vehicle-Parking-System/assets/101233779/aa2be7f0-7677-425b-822a-96bb8b6d0d3c)
+
