@@ -44,3 +44,7 @@ This Application is Stand Alone Application and this application developed for m
 
 ![Movies   TV 06_22_2023 10_47_40 AM (2)](https://github.com/VihangaIndeewara/Vehicle-Parking-System/assets/101233779/c95eb0ab-f1f8-4e20-8004-c901b4777170)
 
+<br>
+<h2>License</h2>
+<b>Copyright @ 2022 All Right Reserved By Vihanga Indeewara</b>
+
